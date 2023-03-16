@@ -1,2 +1,2 @@
-# Repositorio do Desafio de Projeto sobre GitHub da DIO
- DIO Banco Pan BootCamp Projects
+# Desafio de Projeto sobre GitHub da DIO
+ Repositorio criado para o desafio de projeto
